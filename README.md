@@ -2,7 +2,7 @@ NagariMitra (Smart City Prototype) 🏙️
 Empowering Citizens, Streamlining Governance
 [!IMPORTANT]
 
-Development Status: This repository is currently a Prototype. We are actively pushing updates, and the codebase is undergoing significant changes daily to refine the AI logic and dashboard features.
+Development Status: This repository is currently a Prototype. We are actively pushing updates, and the codebase is undergoing significant changes daily to refine the AI logic and dashboard features. To see screenshot scroll to end.
 
 📌 Project Overview
 NagariMitra is an AI-powered, multilingual grievance redressal system designed to bridge the gap between citizens and municipal authorities. By leveraging WhatsApp as a primary interface, it allows users to report urban issues (like potholes, garbage, or water disruptions) using text, voice, or images.
@@ -52,6 +52,9 @@ Install Frontend Dependencies:
 Bash
 cd frontend && npm install
 Environment Variables: Create a .env file in the backend folder and add your MONGODB_URI and PORT.
+
+<img width="1366" height="688" alt="WhatsApp Image 2026-04-26 at 7 28 08 PM" src="https://github.com/user-attachments/assets/7ca0ed21-99f7-4e28-bf88-8225e2800bb6" />
+
 
 👥 Team: Infinity Coders
 1. Prajwal Sonawane - Backend Developer
